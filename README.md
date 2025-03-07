@@ -1,6 +1,4 @@
-## Hi there 👋
 
-## Stats  
 <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chintar1">
 </div>  
