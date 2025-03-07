@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## Stats  
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chintar1">
+</div>  
+
 <!--
 **seungwoo1209/seungwoo1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
